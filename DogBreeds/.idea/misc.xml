@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/drawable/ic_launcher_background.xml" value="0.172" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/drawable/kenarlik.xml" value="0.2585" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/drawable/progress_bar_design.xml" value="0.172" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/drawable/progressbar_design.xml" value="0.233" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/activity_alt_irk.xml" value="0.1" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/activity_detail_screen.xml" value="0.1" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/activity_display_screen.xml" value="0.264" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/alt_irk_row.xml" value="0.264" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/dog_breed_image_row.xml" value="0.264" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/expandable_list.xml" value="0.2" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/fragment_display_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/fragment_splash_screen.xml" value="0.264" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/listview.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/row_alt_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/row_image_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/layout/row_layout.xml" value="0.2" />
+        <entry key="..\:/Users/FURKAN/AndroidStudioProjects/DogBreeds/app/src/main/res/xml/kenarlik.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
